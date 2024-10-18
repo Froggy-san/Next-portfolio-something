@@ -6,7 +6,7 @@ import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatiomNav";
-import { navItems } from "@/data";
+import { navItems } from "@/dataaaa";
 
 export default function Home() {
   return (
