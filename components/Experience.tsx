@@ -1,4 +1,4 @@
-import { workExperience } from "@/dataaaa";
+import { workExperience } from "@/data";
 import React from "react";
 import { Button } from "./ui/MovingBorders";
 
